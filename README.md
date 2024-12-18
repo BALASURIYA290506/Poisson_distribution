@@ -68,11 +68,12 @@ if cal_chi2_sq<table_chi2:
    print("The given data can be fitted in poisson Distribution at 1% LOS")
     else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
- 
+``` 
 
 # Output : 
 
-![WhatsApp Image 2024-12-14 at 11 28 05_5586ec56](https://github.com/user-attachments/assets/022bd320-d33b-4917-844c-16715ff8be98)
+![WhatsApp Image 2024-12-14 at 11 28 06_f54f0c98](https://github.com/user-attachments/assets/f3612002-3adb-4e4e-9ae5-9e85fd624eae)
+
 
 
 # Results
